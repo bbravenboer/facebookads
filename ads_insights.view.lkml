@@ -1,5 +1,5 @@
 view: ad_insights {
-  sql_table_name: rjm_facebook_data.facebook_ads_insights_101441173373823 ;;
+  sql_table_name: facebook_ads.ads_insights ;;
   # API documentation: https://developers.facebook.com/docs/marketing-api/insights/fields/v2.6
 
   ## STANDARD FIELDS
