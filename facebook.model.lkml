@@ -1,4 +1,4 @@
-connection: "stitch_vandelay"
+connection: "facebook_ads_db"
 
 # include all the views
 include: "*.view"
